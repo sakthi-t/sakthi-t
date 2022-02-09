@@ -6,7 +6,7 @@
 
 I am a former civil and structural design engineer. I am working on career change.
 I have recently completed a Data Analyst Nanodegree in Udacity.
-I am open for data analysis jobs.
+I am open for data analysis jobs and python developer jobs.
 I will be applying for jobs and work on my portfolio
 Requesting recruiters to spend time in going through the repositories with title beginning with 'Udacity_Nanodegree...'
 <!---
